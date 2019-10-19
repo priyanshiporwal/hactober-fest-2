@@ -10,3 +10,9 @@ printf("sum=%d\n",sum(a,b));
 printf("diff=%d\n",diff(a,b));
 return 0;
 }
+ int main(int a,int b)
+{
+  return a-b;
+
+ }wq
+
