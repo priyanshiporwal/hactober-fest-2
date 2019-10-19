@@ -1,5 +1,5 @@
 #include<stdio.h>
-int main(int a,int b){
+int sum(int a,int b){
 return a+b;
 }
 int main()
@@ -10,9 +10,9 @@ printf("sum=%d\n",sum(a,b));
 printf("diff=%d\n",diff(a,b));
 return 0;
 }
- int main(int a,int b)
+ int diff(int a,int b)
 {
   return a-b;
 
- }wq
+ }
 
